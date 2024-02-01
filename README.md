@@ -1,6 +1,6 @@
 # pred-scaling
 
-REST server is in backend/
+REST server is in `backend/` folder
 - install dep w `npm install`
 - run with `node app.js`
 
